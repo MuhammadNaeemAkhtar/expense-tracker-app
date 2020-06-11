@@ -1,3 +1,9 @@
+#NOTES
+
+video:https://www.youtube.com/watch?v=XuFDcZABiDQ
+
+github: https://github.com/bradtraversy/vanillawebprojects/blob/master/expense-tracker/script.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
