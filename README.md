@@ -1,5 +1,7 @@
 # NOTES
 
+SURGE URL: http://expense-tracker-app-mna.surge.sh/
+
 video:https://www.youtube.com/watch?v=XuFDcZABiDQ
 
 github: https://github.com/bradtraversy/vanillawebprojects/blob/master/expense-tracker/script.js
